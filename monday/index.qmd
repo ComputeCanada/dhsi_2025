@@ -1,0 +1,29 @@
+---
+title: Programming fundamentals
+description: |
+  Introduction to the core concepts of programming languages
+title-block-banner: true
+---
+
+:::{.topdef}
+
+**Date:** \
+Monday, June 2, 2025
+
+**Time:** \
+10:30am–noon, 1pm–2:30pm
+
+**Instructors:** \
+Marie-Hélène Burle (Simon Fraser University) & Tannia Chevez (ACENET)
+
+:::
+
+:::{.note}
+
+Feel free to use the [etherpad](https://etherpad.wikimedia.org/p/dhsi25) for this course to share notes or communicate among each other. It is entirely for you, so you can use it however you want.
+
+:::
+
+<!-- You can find the slides for the morning presentation [here](https://docs.google.com/presentation/d/e/2PACX-1vS98kQl7iM4c3CPltlf4oAmpPZ-fJkQ6BmfTalcRBSGWPyhcWCZrLNnGdEMLiQVUEgzXPm-15-5r_cS/pub?start=false&loop=false&delayms=3000#slide=id.p) and the afternoon presentation [here](https://mint.westdri.ca/python/wb_hss_prog_slides#/title-slide). -->
+
+You can find the slides for the afternoon presentation [here](wb_hss_prog_slides.html).
