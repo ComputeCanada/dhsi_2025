@@ -34,7 +34,7 @@ website:
       - text: Wednesday morning
         href: wednesday_api/index.qmd
       - text: Wednesday afternoon
-        href: wednesday_demo/index.qmd
+        href: wednesday_llm/index.qmd
       - text: Thursday
         href: thursday/index.qmd
       - text: Friday

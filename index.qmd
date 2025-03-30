@@ -79,9 +79,9 @@ Wednesday<br>June 4, 2025
 
 :::{.card-body}
 
-[More Python usages](/wednesday_demo/index.qmd){.card-title .stretched-link}
+[Using AI to write code](/wednesday_llm/index.qmd){.card-title .stretched-link}
 
-[Hands-off demo]{.text-muted}
+[Let's use an LLM to help us with webscraping]{.text-muted}
 
 :::
 
