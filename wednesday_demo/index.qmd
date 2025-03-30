@@ -1,0 +1,25 @@
+---
+title: Using AI to write code
+description: |
+  [LLMs](https://en.wikipedia.org/wiki/Large_language_model) have become extremely useful as a programming aid. We will use one to write a webscraping program
+title-block-banner: true
+---
+
+:::{.topdef}
+
+**Date:** \
+Wednesday, June 4, 2025
+
+**Time:** \
+1pm–4pm
+
+**Instructor:** \
+Marie-Hélène Burle (Simon Fraser University)
+
+:::
+
+:::{.note}
+
+Feel free to use the [etherpad](https://etherpad.wikimedia.org/p/dhsi25) for this course to share notes or communicate among each other. It is entirely for you, so you can use it however you want.
+
+:::
