@@ -1,5 +1,9 @@
 /*. navbar */
 
+.navbar {
+  --bs-navbar-active-color: #997300 !important;
+}
+
 /* .navbar { */
 /*   background-color: #373a3c !important; */
 /* } */
@@ -35,10 +39,6 @@
 }
 
 /*. sidebar */
-
-.navbar {
-  --bs-navbar-active-color: #997300 !important;
-}
 
 /* .sidebar{ */
 /*   will-change:top; */
