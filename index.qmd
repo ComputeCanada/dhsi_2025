@@ -81,7 +81,7 @@ Wednesday<br>June 4, 2025
 
 [Using AI to write code](/wednesday_llm/index.qmd){.card-title .stretched-link}
 
-[Let's use an LLM to help us with webscraping]{.text-muted}
+[Let's use an LLM to help us code]{.text-muted}
 
 :::
 
