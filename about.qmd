@@ -1,0 +1,23 @@
+---
+title: About Coding Fundamentals for Humanists
+toc: false
+anchor-sections: false
+---
+
+This workshop is part of the [Digital Humanities Summer Institute](https://dhsi.org/) (DHSI) 2025 event.
+
+## Instructors
+
+:::{layout="[[2, 8], [1], [2, 8]]"}
+
+![](img/mh.jpg)
+
+Evolutionary and behavioural ecologist by training, [Software/Data Carpentry instructor,](https://carpentries.org/) and open source advocate, [Marie-Hélène Burle](https://www.sfu.ca/~msb2/) develops and delivers training for researchers on high-performance computing tools (R, Python, Julia, Git, Bash scripting, machine learning, parallel scientific programming, and HPC) for [Simon Fraser University](https://www.sfu.ca/) and the [Digital Research Alliance of Canada.](https://alliancecan.ca/)
+
+<br>
+
+![](img/tc.jpg)
+
+Tannia joined [ACENET](https://ace-net.ca/) in 2023 and is based in St. John’s. She has held positions as a research assistant in various departments, with responsibilities ranging from developing algorithms for an online animal sound repository, to crafting chemical composite films. She is proficient in Python, Java, and JavaScript. Her teaching experience includes a Leader Instructor at Brilliant Labs where she taught a range of digital topics, and a Digital Literacy Instructor for the Association for New Canadians.
+
+:::
