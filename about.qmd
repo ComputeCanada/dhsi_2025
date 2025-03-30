@@ -18,6 +18,6 @@ Evolutionary and behavioural ecologist by training, [Software/Data Carpentry ins
 
 ![](img/tc.jpg)
 
-Tannia joined [ACENET](https://ace-net.ca/) in 2023 and is based in St. John’s. She has held positions as a research assistant in various departments, with responsibilities ranging from developing algorithms for an online animal sound repository, to crafting chemical composite films. She is proficient in Python, Java, and JavaScript. Her teaching experience includes a Leader Instructor at Brilliant Labs where she taught a range of digital topics, and a Digital Literacy Instructor for the Association for New Canadians.
+Tannia Chevez joined [ACENET](https://ace-net.ca/) in 2023 and is based in St. John’s. She has held positions as a research assistant in various departments, with responsibilities ranging from developing algorithms for an online animal sound repository, to crafting chemical composite films. She is proficient in Python, Java, and JavaScript. Her teaching experience includes a Leader Instructor at Brilliant Labs where she taught a range of digital topics, and a Digital Literacy Instructor for the Association for New Canadians.
 
 :::
