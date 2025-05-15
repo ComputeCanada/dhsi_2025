@@ -1,12 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,200..900;1,200..900&family=Maven+Pro:wght@400..900&display=swap');
+
 /*. navbar */
 
 .navbar {
   --bs-navbar-active-color: #997300 !important;
 }
-
-/* .navbar { */
-/*   background-color: #373a3c !important; */
-/* } */
 
 .navbar-logo {
   box-shadow: none !important;
