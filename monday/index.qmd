@@ -26,4 +26,4 @@ Feel free to use the [etherpad](https://etherpad.wikimedia.org/p/dhsi25) for thi
 
 <!-- You can find the slides for the morning presentation [here](https://docs.google.com/presentation/d/e/2PACX-1vS98kQl7iM4c3CPltlf4oAmpPZ-fJkQ6BmfTalcRBSGWPyhcWCZrLNnGdEMLiQVUEgzXPm-15-5r_cS/pub?start=false&loop=false&delayms=3000#slide=id.p) and the afternoon presentation [here](https://mint.westdri.ca/python/wb_hss_prog_slides#/title-slide). -->
 
-You can find the slides for the afternoon presentation [here](wb_hss_prog_slides.html).
+You can find the slides for the morning presentation [here](wb_hss_prog_slides.html).
