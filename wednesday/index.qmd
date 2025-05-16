@@ -23,17 +23,24 @@ Feel free to use the [etherpad](https://etherpad.wikimedia.org/p/dhsi25) for thi
 
 :::
 
-<!-- Please find the lecture notes [here](https://docs.google.com/document/d/1CffVq_FCcMaOpB2G80MupYLbh27knSgGXs5vKMEeUP0/edit#heading=h.33yco2yjpf6z). -->
+## API querying
 
-## Morning session
+:::{.example}
 
-### API querying
+Morning session
+
+:::
 
 We will gather internet data using APIs.
 
-## Afternoon session
+## Using AI to write code
 
-### Using AI to write code
+:::{.example}
+
+Afternoon session
+
+:::
 
 [LLMs](https://en.wikipedia.org/wiki/Large_language_model) have become extremely useful as a programming aid. We will learn how to make use of them to write Python code.
 
+<!-- Please find the lecture notes [here](https://docs.google.com/document/d/1CffVq_FCcMaOpB2G80MupYLbh27knSgGXs5vKMEeUP0/edit#heading=h.33yco2yjpf6z). -->
