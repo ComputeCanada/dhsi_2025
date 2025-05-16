@@ -1,7 +1,6 @@
 ---
-title: Python as an example
-description: |
-  Basics of the language
+title: Basics of Python
+subtitle: Python as an example of programming language
 title-block-banner: true
 ---
 

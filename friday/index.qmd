@@ -1,7 +1,6 @@
 ---
 title: Presentations
-description: |
-  Totally stress-free presentations of your results and what you learnt
+subtitle: Stress-free presentations of your results and what you learnt
 title-block-banner: true
 ---
 

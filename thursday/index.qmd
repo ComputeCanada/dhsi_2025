@@ -1,7 +1,6 @@
 ---
 title: Your turn!
-description: |
-  Query an API in teams (of course, we are here to help)
+subtitle: Query an API in teams (of course, we are here to help)
 title-block-banner: true
 ---
 
