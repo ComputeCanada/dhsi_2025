@@ -43,18 +43,6 @@ website:
         target: _blank
       - text: About
         href: about.qmd
-  # sidebar:
-    # - id: tuesday
-      # collapse-level: 2
-      # contents:
-        # - section:
-          # contents:
-            # - tuesday/index.qmd
-        # - section: <b><em>Afternoon session</em></b>
-          # href: tuesday/collections.qmd
-          # contents:
-            # - text: Collections
-              # href: tuesday/collections.qmd
 
 format:
   html:
