@@ -28,3 +28,7 @@ Feel free to use the [etherpad](https://etherpad.wikimedia.org/p/dhsi25) for thi
 <!-- For the afternoon, the notes are [here](https://mint.westdri.ca/python/intro_text). -->
 
 <!-- Please find the afternoon notes [here](https://mint.westdri.ca/python/intro_text). -->
+
+<br>
+
+![](/img/logo_dhsi.png){fig-alt="frontlogo" fig-align="center" width="12%"}

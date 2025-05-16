@@ -44,3 +44,7 @@ Afternoon session
 [LLMs](https://en.wikipedia.org/wiki/Large_language_model) have become extremely useful as a programming aid. We will learn how to make use of them to write Python code.
 
 <!-- Please find the lecture notes [here](https://docs.google.com/document/d/1CffVq_FCcMaOpB2G80MupYLbh27knSgGXs5vKMEeUP0/edit#heading=h.33yco2yjpf6z). -->
+
+<br>
+
+![](/img/logo_dhsi.png){fig-alt="frontlogo" fig-align="center" width="12%"}

@@ -40,3 +40,7 @@ You can find the slides [here](wb_hss_prog_slides.html).
 Afternoon session (Tannia)
 
 :::
+
+<br>
+
+![](/img/logo_dhsi.png){fig-alt="frontlogo" fig-align="center" width="12%"}
