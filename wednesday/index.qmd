@@ -27,23 +27,25 @@ Feel free to use the [etherpad](https://etherpad.wikimedia.org/p/dhsi25) for thi
 
 :::{.example}
 
-Morning session
+Morning session (Tannia)
 
 :::
 
 We will gather internet data using APIs.
 
-## Using AI to write code
+## Webscraping with AI
 
 :::{.example}
 
-Afternoon session
+Afternoon session (Marie)
 
 :::
 
-[LLMs](https://en.wikipedia.org/wiki/Large_language_model) have become extremely useful as a programming aid. We will learn how to make use of them to write Python code.
+We saw yesterday how useful LLMs can be to write code.
 
-<!-- Please find the lecture notes [here](https://docs.google.com/document/d/1CffVq_FCcMaOpB2G80MupYLbh27knSgGXs5vKMEeUP0/edit#heading=h.33yco2yjpf6z). -->
+Today, we will use an LLM to write a program to scrape a website.
+
+You can find the material [here](https://mint.westdri.ca/python/top_llm).
 
 <br>
 

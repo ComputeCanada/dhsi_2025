@@ -23,11 +23,33 @@ Feel free to use the [etherpad](https://etherpad.wikimedia.org/p/dhsi25) for thi
 
 :::
 
-<!-- Please find the morning notes [here](https://docs.google.com/document/d/1G681nImRAmsbGPk9wcEw8GXhtUCuhEJ6AFDLUQnHp7U/edit#heading=h.otzzrvof7ze1). -->
+## Dive into Python
 
-<!-- For the afternoon, the notes are [here](https://mint.westdri.ca/python/intro_text). -->
+:::{.example}
 
-<!-- Please find the afternoon notes [here](https://mint.westdri.ca/python/intro_text). -->
+Morning session (Tannia)
+
+:::
+
+## Using AI to write Python code
+
+:::{.example}
+
+Afternoon session (Marie)
+
+:::
+
+[LLMs](https://en.wikipedia.org/wiki/Large_language_model) have become extremely useful as a programming aid.
+
+They can:
+
+- explain code,
+- explain programming concepts,
+- write well-documented code.
+
+Let's have a first try at it: we will use an LLM to download a text from the internet and do some basic text analyses.
+
+You can find the material [here](https://mint.westdri.ca/python/top_llm).
 
 <br>
 

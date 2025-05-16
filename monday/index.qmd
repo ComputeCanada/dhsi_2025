@@ -31,6 +31,8 @@ Morning session (Marie)
 
 :::
 
+An introduction to the core concepts of programming languages.
+
 You can find the slides [here](wb_hss_prog_slides.html).
 
 ## JupyterLab and Python
