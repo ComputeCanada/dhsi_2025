@@ -120,3 +120,7 @@ Friday<br>June 6, 2025
 :::
 
 :::
+
+![](/img/logo_dhsi.png){fig-alt="frontlogo" fig-align="center"}
+
+![](/img/logo_drac_bilingual_no_bg.svg){fig-alt="frontlogo" fig-align="center"}
