@@ -21,6 +21,9 @@ website:
       - text: Live notes
         href: https://etherpad.wikimedia.org/p/dhsi25
         target: _blank
+    right:
+      - text: Software installation
+        href: install.qmd
   navbar:
     background: light
     logo: /img/logo_dhsi.png
@@ -41,6 +44,8 @@ website:
       - text: Live notes
         href: https://etherpad.wikimedia.org/p/dhsi25
         target: _blank
+      - text: Software installation
+        href: install.qmd
       - text: About
         href: about.qmd
 
