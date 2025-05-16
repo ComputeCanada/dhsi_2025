@@ -27,7 +27,7 @@ Feel free to use the [etherpad](https://etherpad.wikimedia.org/p/dhsi25) for thi
 
 :::{.example}
 
-Morning session
+Morning session (Marie)
 
 :::
 
@@ -37,6 +37,6 @@ You can find the slides [here](wb_hss_prog_slides.html).
 
 :::{.example}
 
-Afternoon session
+Afternoon session (Tannia)
 
 :::
