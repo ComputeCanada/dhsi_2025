@@ -7,7 +7,7 @@ title-block-banner: true
 anchor-sections: false
 ---
 
-:::{layout="[[2.1, 10], [2.1, 10], [2.1, 5, 5], [2.1, 10], [2.1, 10]]"}
+:::{layout="[[2.1, 10], [2.1, 10], [2.1, 10], [2.1, 10], [2.1, 10]]"}
 
 :::{.card-body}
 
@@ -45,9 +45,9 @@ Tuesday<br>June 3, 2025
 
 :::{.card-body}
 
-[Python as an example](/tuesday/index.qmd){.card-title .stretched-link}
+[Basics of Python](/tuesday/index.qmd){.card-title .stretched-link}
 
-[Basics of the language]{.text-muted}
+[Python as an example of programming language]{.text-muted}
 
 :::
 
@@ -67,21 +67,9 @@ Wednesday<br>June 4, 2025
 
 :::{.card-body}
 
-[API querying](/wednesday_api/index.qmd){.card-title .stretched-link}
+[Python for the humanities](/wednesday/index.qmd){.card-title .stretched-link}
 
-[Example of a Python application]{.text-muted}
-
-:::
-
-:::
-
-:::{.card .mb-3}
-
-:::{.card-body}
-
-[Using AI to write code](/wednesday_llm/index.qmd){.card-title .stretched-link}
-
-[Let's use an LLM to help us code]{.text-muted}
+[Examples of use cases]{.text-muted}
 
 :::
 
@@ -103,7 +91,7 @@ Thursday<br>June 5, 2025
 
 [Your turn!](/thursday/index.qmd){.card-title .stretched-link}
 
-[Each team will query an API (of course, we are here to help)]{.text-muted}
+[Query an API in teams (of course, we are here to help)]{.text-muted}
 
 :::
 
@@ -125,7 +113,7 @@ Friday<br>June 6, 2025
 
 [Presentations](/friday/index.qmd){.card-title .stretched-link}
 
-[Totally stress-free presentations of your results and what you learnt]{.text-muted}
+[Stress-free presentations of your results and what you learnt]{.text-muted}
 
 :::
 
