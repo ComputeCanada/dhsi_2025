@@ -14,11 +14,11 @@
     "text": "API querying\n\nMorning session (Tannia)\n\nWe will gather internet data using APIs."
   },
   {
-    "objectID": "wednesday/index.html#using-ai-to-write-code",
-    "href": "wednesday/index.html#using-ai-to-write-code",
+    "objectID": "wednesday/index.html#webscraping-with-ai",
+    "href": "wednesday/index.html#webscraping-with-ai",
     "title": "Python for the humanities",
-    "section": "Using AI to write code",
-    "text": "Using AI to write code\n\nAfternoon session (Marie)\n\nLLMs have become extremely useful as a programming aid. We will learn how to make use of them to write Python code."
+    "section": "Webscraping with AI",
+    "text": "Webscraping with AI\n\nAfternoon session (Marie)\n\nWe saw yesterday how useful LLMs can be to write code.\nToday, we will use an LLM to write a program to scrape a website.\nYou can find the material here."
   },
   {
     "objectID": "thursday/index.html",
@@ -39,7 +39,7 @@
     "href": "monday/index.html#programming-languages",
     "title": "Programming fundamentals",
     "section": "Programming languages",
-    "text": "Programming languages\n\nMorning session (Marie)\n\nYou can find the slides here."
+    "text": "Programming languages\n\nMorning session (Marie)\n\nAn introduction to the core concepts of programming languages.\nYou can find the slides here."
   },
   {
     "objectID": "monday/index.html#jupyterlab-and-python",
@@ -273,17 +273,17 @@
     "text": "Date:\nTuesday, June 3, 2025\nTime:\n9am–noon, 1pm–4pm\nInstructors:\nMarie-Hélène Burle (Simon Fraser University) & Tannia Chevez (ACENET)"
   },
   {
-    "objectID": "tuesday/index.html#section",
-    "href": "tuesday/index.html#section",
+    "objectID": "tuesday/index.html#dive-into-python",
+    "href": "tuesday/index.html#dive-into-python",
     "title": "Basics of Python",
-    "section": "",
-    "text": "Morning session (Tannia)"
+    "section": "Dive into Python",
+    "text": "Dive into Python\n\nMorning session (Tannia)"
   },
   {
-    "objectID": "tuesday/index.html#section-1",
-    "href": "tuesday/index.html#section-1",
+    "objectID": "tuesday/index.html#using-ai-to-write-python-code",
+    "href": "tuesday/index.html#using-ai-to-write-python-code",
     "title": "Basics of Python",
-    "section": "",
-    "text": "Afternoon session (Marie)"
+    "section": "Using AI to write Python code",
+    "text": "Using AI to write Python code\n\nAfternoon session (Marie)\n\nLLMs have become extremely useful as a programming aid.\nThey can:\n\nexplain code,\nexplain programming concepts,\nwrite well-documented code.\n\nLet’s have a first try at it: we will use an LLM to download a text from the internet and do some basic text analyses.\nYou can find the material here."
   }
 ]
