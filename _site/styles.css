@@ -97,6 +97,21 @@
   line-height: 1.4rem;
 }
 
+.card-special {
+  width: 100% !important;
+  background-color: rgb(192,141,18, .2);
+  border-radius: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.175);
+  color: #404040 !important;
+  a {
+    color: #404040;
+  }
+}
+
+.card-special:hover {
+  background-color: rgb(192,141,18, 1);
+}
+
 /*.. buttons */
 
 .redirect {
@@ -373,7 +388,7 @@ img[alt=frontlogo] {
 }
 
 .date {
-  color: #996600;
+  color: #c08d12;
   font-weight: 600;
   font-size: 0.95rem;
   font-style: italic;

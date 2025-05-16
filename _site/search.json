@@ -11,14 +11,14 @@
     "href": "wednesday/index.html#api-querying",
     "title": "Python for the humanities",
     "section": "API querying",
-    "text": "API querying\n\nMorning session\n\nWe will gather internet data using APIs."
+    "text": "API querying\n\nMorning session (Tannia)\n\nWe will gather internet data using APIs."
   },
   {
     "objectID": "wednesday/index.html#using-ai-to-write-code",
     "href": "wednesday/index.html#using-ai-to-write-code",
     "title": "Python for the humanities",
     "section": "Using AI to write code",
-    "text": "Using AI to write code\n\nAfternoon session\n\nLLMs have become extremely useful as a programming aid. We will learn how to make use of them to write Python code."
+    "text": "Using AI to write code\n\nAfternoon session (Marie)\n\nLLMs have become extremely useful as a programming aid. We will learn how to make use of them to write Python code."
   },
   {
     "objectID": "thursday/index.html",
@@ -32,14 +32,28 @@
     "href": "monday/index.html",
     "title": "Programming fundamentals",
     "section": "",
-    "text": "Date:\nMonday, June 2, 2025\nTime:\n10:30am–noon, 1pm–2:30pm\nInstructors:\nMarie-Hélène Burle (Simon Fraser University) & Tannia Chevez (ACENET)\n\n\nFeel free to use the etherpad for this course to share notes or communicate among each other. It is entirely for you, so you can use it however you want.\n\n\nYou can find the slides for the morning presentation here."
+    "text": "Date:\nMonday, June 2, 2025\nTime:\n10:30am–noon, 1pm–2:30pm\nInstructors:\nMarie-Hélène Burle (Simon Fraser University) & Tannia Chevez (ACENET)"
   },
   {
-    "objectID": "friday/index.html",
-    "href": "friday/index.html",
-    "title": "Presentations",
+    "objectID": "monday/index.html#programming-languages",
+    "href": "monday/index.html#programming-languages",
+    "title": "Programming fundamentals",
+    "section": "Programming languages",
+    "text": "Programming languages\n\nMorning session (Marie)\n\nYou can find the slides here."
+  },
+  {
+    "objectID": "monday/index.html#jupyterlab-and-python",
+    "href": "monday/index.html#jupyterlab-and-python",
+    "title": "Programming fundamentals",
+    "section": "JupyterLab and Python",
+    "text": "JupyterLab and Python\n\nAfternoon session (Tannia)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Coding Fundamentals for Humanists",
     "section": "",
-    "text": "Date:\nFriday, June 6, 2025\nTime:\n9am–10:15am\n\n\nFeel free to use the etherpad for this course to share notes or communicate among each other. It is entirely for you, so you can use it however you want."
+    "text": "Software installation instructions\n\n\n\n\n\n\nMondayJune 2, 2025\n\n\n\n\nProgramming fundamentals\nIntroduction to the core concepts of programming languages\n\n\n\n\n\n\nTuesdayJune 3, 2025\n\n\n\n\nBasics of Python\nPython as an example of programming language\n\n\n\n\n\n\nWednesdayJune 4, 2025\n\n\n\n\nPython for the humanities\nExamples of use cases\n\n\n\n\n\n\nThursdayJune 5, 2025\n\n\n\n\nYour turn!\nQuery an API in teams (of course, we are here to help)\n\n\n\n\n\n\nFridayJune 6, 2025\n\n\n\n\nPresentations\nStress-free presentations of your results and what you learnt"
   },
   {
     "objectID": "about.html",
@@ -56,11 +70,18 @@
     "text": "Instructors\n\n\n\n\n\n\nEvolutionary and behavioural ecologist by training, Software/Data Carpentry instructor, and open source advocate, Marie-Hélène Burle develops and delivers training for researchers on high-performance computing tools (R, Python, Julia, Git, Bash scripting, machine learning, parallel scientific programming, and HPC) for Simon Fraser University and the Digital Research Alliance of Canada.\n\n\n\n\n\n\n\n\n\n\n\n\nTannia Chevez joined ACENET in 2023 and is based in St. John’s. She has held positions as a research assistant in various departments, with responsibilities ranging from developing algorithms for an online animal sound repository, to crafting chemical composite films. She is proficient in Python, Java, and JavaScript. Her teaching experience includes a Leader Instructor at Brilliant Labs where she taught a range of digital topics, and a Digital Literacy Instructor for the Association for New Canadians."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Coding Fundamentals for Humanists",
+    "objectID": "friday/index.html",
+    "href": "friday/index.html",
+    "title": "Presentations",
     "section": "",
-    "text": "MondayJune 2, 2025\n\n\n\n\nProgramming fundamentals\nIntroduction to the core concepts of programming languages\n\n\n\n\n\n\nTuesdayJune 3, 2025\n\n\n\n\nBasics of Python\nPython as an example of programming language\n\n\n\n\n\n\nWednesdayJune 4, 2025\n\n\n\n\nPython for the humanities\nExamples of use cases\n\n\n\n\n\n\nThursdayJune 5, 2025\n\n\n\n\nYour turn!\nEach team will query an API (of course, we are here to help)\n\n\n\n\n\n\nFridayJune 6, 2025\n\n\n\n\nPresentations\nStress-free presentations of your results and what you learnt"
+    "text": "Date:\nFriday, June 6, 2025\nTime:\n9am–10:15am\n\n\nFeel free to use the etherpad for this course to share notes or communicate among each other. It is entirely for you, so you can use it however you want."
+  },
+  {
+    "objectID": "install.html",
+    "href": "install.html",
+    "title": "Software installation instructions",
+    "section": "",
+    "text": "TBA"
   },
   {
     "objectID": "monday/wb_hss_prog_slides.html#computer-programming",
@@ -249,6 +270,20 @@
     "href": "tuesday/index.html",
     "title": "Basics of Python",
     "section": "",
-    "text": "Date:\nTuesday, June 3, 2025\nTime:\n9am–noon, 1pm–4pm\nInstructors:\nMarie-Hélène Burle (Simon Fraser University) & Tannia Chevez (ACENET)\n\n\nFeel free to use the etherpad for this course to share notes or communicate among each other. It is entirely for you, so you can use it however you want."
+    "text": "Date:\nTuesday, June 3, 2025\nTime:\n9am–noon, 1pm–4pm\nInstructors:\nMarie-Hélène Burle (Simon Fraser University) & Tannia Chevez (ACENET)"
+  },
+  {
+    "objectID": "tuesday/index.html#section",
+    "href": "tuesday/index.html#section",
+    "title": "Basics of Python",
+    "section": "",
+    "text": "Morning session (Tannia)"
+  },
+  {
+    "objectID": "tuesday/index.html#section-1",
+    "href": "tuesday/index.html#section-1",
+    "title": "Basics of Python",
+    "section": "",
+    "text": "Afternoon session (Marie)"
   }
 ]
