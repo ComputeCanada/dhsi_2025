@@ -1,17 +1,66 @@
 [
   {
-    "objectID": "wednesday_llm/index.html",
-    "href": "wednesday_llm/index.html",
-    "title": "Using AI to write code",
+    "objectID": "wednesday/index.html",
+    "href": "wednesday/index.html",
+    "title": "Python for the humanities",
     "section": "",
-    "text": "Date:\nWednesday, June 4, 2025\nTime:\n1pm–4pm\nInstructor:\nMarie-Hélène Burle (Simon Fraser University)\n\n\nFeel free to use the etherpad for this course to share notes or communicate among each other. It is entirely for you, so you can use it however you want."
+    "text": "Date:\nWednesday, June 4, 2025\nTime:\n9am–noon, 1pm–4pm\nInstructors:\nMarie-Hélène Burle (Simon Fraser University) & Tannia Chevez (ACENET)"
   },
   {
-    "objectID": "tuesday/index.html",
-    "href": "tuesday/index.html",
-    "title": "Python as an example",
+    "objectID": "wednesday/index.html#api-querying",
+    "href": "wednesday/index.html#api-querying",
+    "title": "Python for the humanities",
+    "section": "API querying",
+    "text": "API querying\n\nMorning session\n\nWe will gather internet data using APIs."
+  },
+  {
+    "objectID": "wednesday/index.html#using-ai-to-write-code",
+    "href": "wednesday/index.html#using-ai-to-write-code",
+    "title": "Python for the humanities",
+    "section": "Using AI to write code",
+    "text": "Using AI to write code\n\nAfternoon session\n\nLLMs have become extremely useful as a programming aid. We will learn how to make use of them to write Python code."
+  },
+  {
+    "objectID": "thursday/index.html",
+    "href": "thursday/index.html",
+    "title": "Your turn!",
     "section": "",
-    "text": "Date:\nTuesday, June 3, 2025\nTime:\n9am–noon, 1pm–4pm\nInstructors:\nMarie-Hélène Burle (Simon Fraser University) & Tannia Chevez (ACENET)\n\n\nFeel free to use the etherpad for this course to share notes or communicate among each other. It is entirely for you, so you can use it however you want."
+    "text": "Date:\nThursday, June 5, 2025\nTime:\n9am–noon, 1pm–4pm\n\n\nFeel free to use the etherpad for this course to share notes or communicate among each other. It is entirely for you, so you can use it however you want."
+  },
+  {
+    "objectID": "monday/index.html",
+    "href": "monday/index.html",
+    "title": "Programming fundamentals",
+    "section": "",
+    "text": "Date:\nMonday, June 2, 2025\nTime:\n10:30am–noon, 1pm–2:30pm\nInstructors:\nMarie-Hélène Burle (Simon Fraser University) & Tannia Chevez (ACENET)\n\n\nFeel free to use the etherpad for this course to share notes or communicate among each other. It is entirely for you, so you can use it however you want.\n\n\nYou can find the slides for the morning presentation here."
+  },
+  {
+    "objectID": "friday/index.html",
+    "href": "friday/index.html",
+    "title": "Presentations",
+    "section": "",
+    "text": "Date:\nFriday, June 6, 2025\nTime:\n9am–10:15am\n\n\nFeel free to use the etherpad for this course to share notes or communicate among each other. It is entirely for you, so you can use it however you want."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Coding Fundamentals for Humanists",
+    "section": "",
+    "text": "This workshop is part of the Digital Humanities Summer Institute (DHSI) 2025 event."
+  },
+  {
+    "objectID": "about.html#instructors",
+    "href": "about.html#instructors",
+    "title": "About Coding Fundamentals for Humanists",
+    "section": "Instructors",
+    "text": "Instructors\n\n\n\n\n\n\nEvolutionary and behavioural ecologist by training, Software/Data Carpentry instructor, and open source advocate, Marie-Hélène Burle develops and delivers training for researchers on high-performance computing tools (R, Python, Julia, Git, Bash scripting, machine learning, parallel scientific programming, and HPC) for Simon Fraser University and the Digital Research Alliance of Canada.\n\n\n\n\n\n\n\n\n\n\n\n\nTannia Chevez joined ACENET in 2023 and is based in St. John’s. She has held positions as a research assistant in various departments, with responsibilities ranging from developing algorithms for an online animal sound repository, to crafting chemical composite films. She is proficient in Python, Java, and JavaScript. Her teaching experience includes a Leader Instructor at Brilliant Labs where she taught a range of digital topics, and a Digital Literacy Instructor for the Association for New Canadians."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Coding Fundamentals for Humanists",
+    "section": "",
+    "text": "MondayJune 2, 2025\n\n\n\n\nProgramming fundamentals\nIntroduction to the core concepts of programming languages\n\n\n\n\n\n\nTuesdayJune 3, 2025\n\n\n\n\nBasics of Python\nPython as an example of programming language\n\n\n\n\n\n\nWednesdayJune 4, 2025\n\n\n\n\nPython for the humanities\nExamples of use cases\n\n\n\n\n\n\nThursdayJune 5, 2025\n\n\n\n\nYour turn!\nEach team will query an API (of course, we are here to help)\n\n\n\n\n\n\nFridayJune 6, 2025\n\n\n\n\nPresentations\nStress-free presentations of your results and what you learnt"
   },
   {
     "objectID": "monday/wb_hss_prog_slides.html#computer-programming",
@@ -196,52 +245,10 @@
     "text": "Large language models (LLMs)\nOver the past few years, LLMs have become increasingly performant at coding\nPeople use them in different ways:\n\nAsk questions (explain code, documentation)\nAuto-completion\nFirst code draft\nDebugging\nVibe coding\n\nIn this course, I will show you how they can help you write code"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Coding Fundamentals for Humanists",
+    "objectID": "tuesday/index.html",
+    "href": "tuesday/index.html",
+    "title": "Basics of Python",
     "section": "",
-    "text": "MondayJune 2, 2025\n\n\n\n\nProgramming fundamentals\nIntroduction to the core concepts of programming languages\n\n\n\n\n\n\nTuesdayJune 3, 2025\n\n\n\n\nPython as an example\nBasics of the language\n\n\n\n\n\n\nWednesdayJune 4, 2025\n\n\n\n\nAPI querying\nExample of a Python application\n\n\n\n\nUsing AI to write code\nLet’s use an LLM to help us code\n\n\n\n\n\n\nThursdayJune 5, 2025\n\n\n\n\nYour turn!\nEach team will query an API (of course, we are here to help)\n\n\n\n\n\n\nFridayJune 6, 2025\n\n\n\n\nPresentations\nTotally stress-free presentations of your results and what you learnt"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Coding Fundamentals for Humanists",
-    "section": "",
-    "text": "This workshop is part of the Digital Humanities Summer Institute (DHSI) 2025 event."
-  },
-  {
-    "objectID": "about.html#instructors",
-    "href": "about.html#instructors",
-    "title": "About Coding Fundamentals for Humanists",
-    "section": "Instructors",
-    "text": "Instructors\n\n\n\n\n\n\nEvolutionary and behavioural ecologist by training, Software/Data Carpentry instructor, and open source advocate, Marie-Hélène Burle develops and delivers training for researchers on high-performance computing tools (R, Python, Julia, Git, Bash scripting, machine learning, parallel scientific programming, and HPC) for Simon Fraser University and the Digital Research Alliance of Canada.\n\n\n\n\n\n\n\n\n\n\n\n\nTannia Chevez joined ACENET in 2023 and is based in St. John’s. She has held positions as a research assistant in various departments, with responsibilities ranging from developing algorithms for an online animal sound repository, to crafting chemical composite films. She is proficient in Python, Java, and JavaScript. Her teaching experience includes a Leader Instructor at Brilliant Labs where she taught a range of digital topics, and a Digital Literacy Instructor for the Association for New Canadians."
-  },
-  {
-    "objectID": "friday/index.html",
-    "href": "friday/index.html",
-    "title": "Presentations",
-    "section": "",
-    "text": "Date:\nFriday, June 6, 2025\nTime:\n9am–10:15am\n\n\nFeel free to use the etherpad for this course to share notes or communicate among each other. It is entirely for you, so you can use it however you want."
-  },
-  {
-    "objectID": "monday/index.html",
-    "href": "monday/index.html",
-    "title": "Programming fundamentals",
-    "section": "",
-    "text": "Date:\nMonday, June 2, 2025\nTime:\n10:30am–noon, 1pm–2:30pm\nInstructors:\nMarie-Hélène Burle (Simon Fraser University) & Tannia Chevez (ACENET)\n\n\nFeel free to use the etherpad for this course to share notes or communicate among each other. It is entirely for you, so you can use it however you want.\n\n\nYou can find the slides for the morning presentation here."
-  },
-  {
-    "objectID": "thursday/index.html",
-    "href": "thursday/index.html",
-    "title": "Your turn!",
-    "section": "",
-    "text": "Date:\nThursday, June 5, 2025\nTime:\n9am–noon, 1pm–4pm\n\n\nFeel free to use the etherpad for this course to share notes or communicate among each other. It is entirely for you, so you can use it however you want."
-  },
-  {
-    "objectID": "wednesday_api/index.html",
-    "href": "wednesday_api/index.html",
-    "title": "API querying",
-    "section": "",
-    "text": "Date:\nWednesday, June 4, 2025\nTime:\n9am–noon\nInstructor:\nTannia Chevez (ACENET)\n\n\nFeel free to use the etherpad for this course to share notes or communicate among each other. It is entirely for you, so you can use it however you want."
+    "text": "Date:\nTuesday, June 3, 2025\nTime:\n9am–noon, 1pm–4pm\nInstructors:\nMarie-Hélène Burle (Simon Fraser University) & Tannia Chevez (ACENET)\n\n\nFeel free to use the etherpad for this course to share notes or communicate among each other. It is entirely for you, so you can use it however you want."
   }
 ]
