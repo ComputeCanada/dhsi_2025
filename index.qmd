@@ -7,7 +7,24 @@ title-block-banner: true
 anchor-sections: false
 ---
 
-:::{layout="[[2.1, 10], [2.1, 10], [2.1, 10], [2.1, 10], [2.1, 10]]"}
+:::{layout="[[2.1, 10], [2.1, 10], [2.1, 10], [2.1, 10], [2.1, 10], [2.1, 10]]"}
+
+:::{.card-body}
+
+:::{.date}
+:::
+
+:::
+
+:::{.card-special .mb-3}
+
+:::{.card-body}
+
+[Software installation instructions](install.qmd){.card-title .stretched-link}
+
+:::
+
+:::
 
 :::{.card-body}
 
