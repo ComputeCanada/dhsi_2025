@@ -1,55 +1,55 @@
 ---
 title: Basics of Python
 subtitle: Python as an example of programming language
+description: Tuesday, June 3, 2025
 title-block-banner: true
+toc: false
 ---
-
-:::{.topdef}
-
-**Date:** \
-Tuesday, June 3, 2025
-
-**Time:** \
-9am–noon, 1pm–4pm
-
-**Instructors:** \
-Marie-Hélène Burle (Simon Fraser University) & Tannia Chevez (ACENET)
-
-:::
-
-:::{.note}
-
-Feel free to use the [etherpad](https://etherpad.wikimedia.org/p/dhsi25) for this course to share notes or communicate among each other. It is entirely for you, so you can use it however you want.
-
-:::
 
 ## Dive into Python
 
-:::{.example}
+:::{.topdef}
 
-Morning session (Tannia)
+**Time:** \
+9am–noon
+
+**Instructor:** \
+Tannia Chevez (ACENET)
+
+**Live notes:** \
+[Etherpad](https://etherpad.wikimedia.org/p/dhsi25)
 
 :::
 
 ## Using AI to write Python code
 
-:::{.example}
+:::{.topdef}
 
-Afternoon session (Marie)
+**Time:** \
+1pm–4pm
+
+**Instructor:** \
+Marie-Hélène Burle (Simon Fraser University)
+
+**Live notes:** \
+[Etherpad](https://etherpad.wikimedia.org/p/dhsi25)
+
+**Material:** \
+[Website](https://mint.westdri.ca/python/top_llm)
 
 :::
 
+<br>
 [LLMs](https://en.wikipedia.org/wiki/Large_language_model) have become extremely useful as a programming aid.
 
 They can:
 
 - explain code,
 - explain programming concepts,
-- write well-documented code.
+- write well-documented code,
+- debug code.
 
 Let's have a first try at it: we will use an LLM to download a text from the internet and do some basic text analyses.
-
-You can find the material [here](https://mint.westdri.ca/python/top_llm).
 
 <br>
 

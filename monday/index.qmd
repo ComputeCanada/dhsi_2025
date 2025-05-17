@@ -1,45 +1,44 @@
 ---
 title: Programming fundamentals
 subtitle: Core concepts
+description: Monday, June 2, 2025
 title-block-banner: true
+toc: false
 ---
-
-:::{.topdef}
-
-**Date:** \
-Monday, June 2, 2025
-
-**Time:** \
-10:30am–noon, 1pm–2:30pm
-
-**Instructors:** \
-Marie-Hélène Burle (Simon Fraser University) & Tannia Chevez (ACENET)
-
-:::
-
-:::{.note}
-
-Feel free to use the [etherpad](https://etherpad.wikimedia.org/p/dhsi25) for this course to share notes or communicate among each other. It is entirely for you, so you can use it however you want.
-
-:::
 
 ## Programming languages
 
-:::{.example}
+:::{.topdef}
 
-Morning session (Marie)
+**Time:** \
+10:30am–noon
+
+**Instructor:** \
+Marie-Hélène Burle (Simon Fraser University)
+
+**Live notes:** \
+Feel free to use the [etherpad](https://etherpad.wikimedia.org/p/dhsi25) for this course to share notes or communicate among each other. It is entirely for you, so you can use it however you want.
+
+**Material:** \
+[Slides](wb_hss_prog_slides.html)
 
 :::
 
+<br>
 An introduction to the core concepts of programming languages.
 
-You can find the slides [here](wb_hss_prog_slides.html).
+## JupyterLab & Python
 
-## JupyterLab and Python
+:::{.topdef}
 
-:::{.example}
+**Time:** \
+1pm–2:30pm
 
-Afternoon session (Tannia)
+**Instructor:** \
+Tannia Chevez (ACENET)
+
+**Live notes:** \
+[Etherpad](https://etherpad.wikimedia.org/p/dhsi25)
 
 :::
 

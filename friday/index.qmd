@@ -1,22 +1,18 @@
 ---
 title: Presentations
 subtitle: Stress-free presentations of your results and what you learnt
+description: Friday, June 6, 2025
 title-block-banner: true
+toc: false
 ---
 
 :::{.topdef}
 
-**Date:** \
-Friday, June 6, 2025
-
 **Time:** \
 9am–10:15am
 
-:::
-
-:::{.note}
-
-Feel free to use the [etherpad](https://etherpad.wikimedia.org/p/dhsi25) for this course to share notes or communicate among each other. It is entirely for you, so you can use it however you want.
+**Live notes:** \
+[Etherpad](https://etherpad.wikimedia.org/p/dhsi25)
 
 :::
 

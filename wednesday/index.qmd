@@ -1,51 +1,49 @@
 ---
 title: Python for the humanities
 subtitle: Examples of use cases
+description: Wednesday, June 4, 2025
 title-block-banner: true
+toc: false
 ---
-
-:::{.topdef}
-
-**Date:** \
-Wednesday, June 4, 2025
-
-**Time:** \
-9am–noon, 1pm–4pm
-
-**Instructors:** \
-Marie-Hélène Burle (Simon Fraser University) & Tannia Chevez (ACENET)
-
-:::
-
-:::{.note}
-
-Feel free to use the [etherpad](https://etherpad.wikimedia.org/p/dhsi25) for this course to share notes or communicate among each other. It is entirely for you, so you can use it however you want.
-
-:::
 
 ## API querying
 
-:::{.example}
+:::{.topdef}
 
-Morning session (Tannia)
+**Time:** \
+9am–noon
+
+**Instructor:** \
+Tannia Chevez (ACENET)
+
+**Live notes:** \
+[Etherpad](https://etherpad.wikimedia.org/p/dhsi25)
 
 :::
 
+<br>
 We will gather internet data using APIs.
 
 ## Webscraping with AI
 
-:::{.example}
+:::{.topdef}
 
-Afternoon session (Marie)
+**Time:** \
+1pm–4pm
+
+**Instructor:** \
+Marie-Hélène Burle (Simon Fraser University)
+
+**Live notes:** \
+[Etherpad](https://etherpad.wikimedia.org/p/dhsi25)
+
+**Material:** \
+[Website](https://mint.westdri.ca/python/llm_webscraping)
 
 :::
 
-We saw yesterday how useful LLMs can be to write code.
-
-Today, we will use an LLM to write a program to scrape a website.
-
-You can find the material [here](https://mint.westdri.ca/python/top_llm).
+<br>
+Yesterday we saw how useful LLMs can be to write code. Today, we will use an LLM to write a program to scrape a website.
 
 <br>
 
