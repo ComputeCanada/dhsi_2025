@@ -213,6 +213,12 @@ img[alt=frontlogo] {
   color: #44494d;
   border: 0.5pt solid #e8e2e9;
   border-radius: 5px;
+  a {
+    color: #c08d12;
+  }
+  a:hover {
+    color: #997300;
+  }
 }
 
 @media(max-width: 500px) {
@@ -310,6 +316,24 @@ img[alt=frontlogo] {
   padding-left: 1rem;
   margin: 2rem 0 2rem 2rem;
   border-left: 3px solid #7b809d;
+}
+
+.notenoline {
+  color: #424a57;
+  font-family: 'Maven Pro', sans-serif;
+  font-size: 0.9rem;
+  font-style: italic;
+  padding-left: 1rem;
+  margin: 2rem 1rem 2rem 2rem;
+}
+
+.notenoit {
+  color: #424a57;
+  font-family: 'Maven Pro', sans-serif;
+  font-size: 0.9rem;
+  padding-left: 1rem;
+  margin: 2rem 1rem 2rem 2rem;
+  border-left: 4px solid #7b809d;
 }
 
 .hnote {
@@ -516,6 +540,11 @@ ul {
 
 a {
   text-decoration: none;
+  color: #c08d12;
+}
+
+a:hover {
+  color: #997300;
 }
 
 .right {

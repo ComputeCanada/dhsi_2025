@@ -4,49 +4,49 @@
     "href": "wednesday/index.html",
     "title": "Python for the humanities",
     "section": "",
-    "text": "Date:\nWednesday, June 4, 2025\nTime:\n9am–noon, 1pm–4pm\nInstructors:\nMarie-Hélène Burle (Simon Fraser University) & Tannia Chevez (ACENET)"
+    "text": "Time:\n9am–noon\nInstructor:\nTannia Chevez (ACENET)\nLive notes:\nEtherpad\n\n We will gather internet data using APIs."
   },
   {
     "objectID": "wednesday/index.html#api-querying",
     "href": "wednesday/index.html#api-querying",
     "title": "Python for the humanities",
-    "section": "API querying",
-    "text": "API querying\n\nMorning session (Tannia)\n\nWe will gather internet data using APIs."
+    "section": "",
+    "text": "Time:\n9am–noon\nInstructor:\nTannia Chevez (ACENET)\nLive notes:\nEtherpad\n\n We will gather internet data using APIs."
   },
   {
     "objectID": "wednesday/index.html#webscraping-with-ai",
     "href": "wednesday/index.html#webscraping-with-ai",
     "title": "Python for the humanities",
     "section": "Webscraping with AI",
-    "text": "Webscraping with AI\n\nAfternoon session (Marie)\n\nWe saw yesterday how useful LLMs can be to write code.\nToday, we will use an LLM to write a program to scrape a website.\nYou can find the material here."
+    "text": "Webscraping with AI\n\nTime:\n1pm–4pm\nInstructor:\nMarie-Hélène Burle (Simon Fraser University)\nLive notes:\nEtherpad\nMaterial:\nWebsite\n\n Yesterday we saw how useful LLMs can be to write code. Today, we will use an LLM to write a program to scrape a website."
   },
   {
     "objectID": "thursday/index.html",
     "href": "thursday/index.html",
     "title": "Your turn!",
     "section": "",
-    "text": "Date:\nThursday, June 5, 2025\nTime:\n9am–noon, 1pm–4pm\n\n\nFeel free to use the etherpad for this course to share notes or communicate among each other. It is entirely for you, so you can use it however you want."
+    "text": "Time:\n9am–noon, 1pm–4pm\nLive notes:\nEtherpad"
   },
   {
     "objectID": "monday/index.html",
     "href": "monday/index.html",
     "title": "Programming fundamentals",
     "section": "",
-    "text": "Date:\nMonday, June 2, 2025\nTime:\n10:30am–noon, 1pm–2:30pm\nInstructors:\nMarie-Hélène Burle (Simon Fraser University) & Tannia Chevez (ACENET)"
+    "text": "Time:\n10:30am–noon\nInstructor:\nMarie-Hélène Burle (Simon Fraser University)\nLive notes:\nFeel free to use the etherpad for this course to share notes or communicate among each other. It is entirely for you, so you can use it however you want.\nMaterial:\nSlides\n\n An introduction to the core concepts of programming languages."
   },
   {
     "objectID": "monday/index.html#programming-languages",
     "href": "monday/index.html#programming-languages",
     "title": "Programming fundamentals",
-    "section": "Programming languages",
-    "text": "Programming languages\n\nMorning session (Marie)\n\nAn introduction to the core concepts of programming languages.\nYou can find the slides here."
+    "section": "",
+    "text": "Time:\n10:30am–noon\nInstructor:\nMarie-Hélène Burle (Simon Fraser University)\nLive notes:\nFeel free to use the etherpad for this course to share notes or communicate among each other. It is entirely for you, so you can use it however you want.\nMaterial:\nSlides\n\n An introduction to the core concepts of programming languages."
   },
   {
     "objectID": "monday/index.html#jupyterlab-and-python",
     "href": "monday/index.html#jupyterlab-and-python",
     "title": "Programming fundamentals",
     "section": "JupyterLab and Python",
-    "text": "JupyterLab and Python\n\nAfternoon session (Tannia)"
+    "text": "JupyterLab and Python\n\nTime:\n1pm–2:30pm\nInstructor:\nTannia Chevez (ACENET)\nLive notes:\nEtherpad"
   },
   {
     "objectID": "index.html",
@@ -74,7 +74,7 @@
     "href": "friday/index.html",
     "title": "Presentations",
     "section": "",
-    "text": "Date:\nFriday, June 6, 2025\nTime:\n9am–10:15am\n\n\nFeel free to use the etherpad for this course to share notes or communicate among each other. It is entirely for you, so you can use it however you want."
+    "text": "Time:\n9am–10:15am\nLive notes:\nEtherpad"
   },
   {
     "objectID": "install.html",
@@ -270,20 +270,27 @@
     "href": "tuesday/index.html",
     "title": "Basics of Python",
     "section": "",
-    "text": "Date:\nTuesday, June 3, 2025\nTime:\n9am–noon, 1pm–4pm\nInstructors:\nMarie-Hélène Burle (Simon Fraser University) & Tannia Chevez (ACENET)"
+    "text": "Time:\n9am–noon\nInstructor:\nTannia Chevez (ACENET)\nLive notes:\nEtherpad"
   },
   {
     "objectID": "tuesday/index.html#dive-into-python",
     "href": "tuesday/index.html#dive-into-python",
     "title": "Basics of Python",
-    "section": "Dive into Python",
-    "text": "Dive into Python\n\nMorning session (Tannia)"
+    "section": "",
+    "text": "Time:\n9am–noon\nInstructor:\nTannia Chevez (ACENET)\nLive notes:\nEtherpad"
   },
   {
     "objectID": "tuesday/index.html#using-ai-to-write-python-code",
     "href": "tuesday/index.html#using-ai-to-write-python-code",
     "title": "Basics of Python",
     "section": "Using AI to write Python code",
-    "text": "Using AI to write Python code\n\nAfternoon session (Marie)\n\nLLMs have become extremely useful as a programming aid.\nThey can:\n\nexplain code,\nexplain programming concepts,\nwrite well-documented code.\n\nLet’s have a first try at it: we will use an LLM to download a text from the internet and do some basic text analyses.\nYou can find the material here."
+    "text": "Using AI to write Python code\n\nTime:\n1pm–4pm\nInstructor:\nMarie-Hélène Burle (Simon Fraser University)\nLive notes:\nEtherpad\nMaterial:\nWebsite\n\n LLMs have become extremely useful as a programming aid.\nThey can:\n\nexplain code,\nexplain programming concepts,\nwrite well-documented code,\ndebug code.\n\nLet’s have a first try at it: we will use an LLM to download a text from the internet and do some basic text analyses."
+  },
+  {
+    "objectID": "monday/index.html#jupyterlab-python",
+    "href": "monday/index.html#jupyterlab-python",
+    "title": "Programming fundamentals",
+    "section": "JupyterLab & Python",
+    "text": "JupyterLab & Python\n\nTime:\n1pm–2:30pm\nInstructor:\nTannia Chevez (ACENET)\nLive notes:\nEtherpad"
   }
 ]
