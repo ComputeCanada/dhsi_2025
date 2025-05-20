@@ -1,6 +1,6 @@
 ---
 title: Your turn!
-subtitle: Query an API in teams (of course, we are here to help)
+subtitle: Query an API or scrape a website in teams
 description: Thursday, June 5, 2025
 title-block-banner: true
 toc: false
@@ -16,6 +16,8 @@ toc: false
 
 :::
 
+<br>
+Of course, we will be with you all day to help!
 <br>
 
 ![](/img/logo_dhsi.png){fig-alt="frontlogo" fig-align="center" width="12%"}

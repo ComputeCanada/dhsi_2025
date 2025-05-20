@@ -108,7 +108,7 @@ Thursday<br>June 5, 2025
 
 [Your turn!](/thursday/index.qmd){.card-title .stretched-link}
 
-[Query an API in teams (of course, we are here to help)]{.text-muted}
+[Query an API or scrape a website in teams]{.text-muted}
 
 :::
 
