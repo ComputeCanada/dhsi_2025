@@ -41,7 +41,7 @@ Tannia Chevez (ACENET)
 [Etherpad](https://etherpad.wikimedia.org/p/dhsi25)
 
 **Material:** \
-Download the Jupyter notebook for this afternoon: {{< downloadthis day1_afternoon.ipynb label="Download" >}}
+Download the Jupyter notebook for this afternoon: {{< downloadthis day1_afternoon.ipynb dname="day1_afternoon" label="Download" >}}
 
 You will open this notebook on your computer and work in it.
 
