@@ -1,5 +1,5 @@
 ---
-title: Introductory Programming with Python (Part 1)
+title: Introductory Programming with Python
 jupyter: python3
 ---
 
