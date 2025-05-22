@@ -14,14 +14,16 @@ toc: false
 **Live notes:** \
 [Etherpad](https://etherpad.wikimedia.org/p/dhsi25)
 
-:::
+**Topic:** \
+Today, you will be working in teams on a project of your own. Your goal is to extract useful data from a website, either via API querying (if the option is available) or via web scraping (if your site has no API).
 
-<br>
-Of course, we will be with you all day to help!
-
-It would be fantastic if you would chose a website that contains data useful for your research. If you don't have any idea however, we will provide a list of suggestions.
+It would be fantastic if you could chose a website that contains data useful for your research or that is of interest to you. If you don't have any idea however, we will provide a list of site suggestions.
 
 Try to pair up with one or more people having a similar interest.
+
+Of course, we will be with you all day to help!
+
+:::
 
 <br>
 

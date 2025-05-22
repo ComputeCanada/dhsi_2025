@@ -22,10 +22,10 @@ Feel free to use the [etherpad](https://etherpad.wikimedia.org/p/dhsi25) for thi
 **Material:** \
 [Slides](wb_hss_prog_slides.html) (this presentation may take a little time to load).
 
-:::
-
-<br>
+**Topic:** \
 An introduction to the core concepts of programming languages.
+
+:::
 
 ## JupyterLab & Python
 

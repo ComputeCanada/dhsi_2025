@@ -37,19 +37,22 @@ Marie-Hélène Burle (Simon Fraser University)
 **Material:** \
 [Website](https://mint.westdri.ca/python/top_llm)
 
-:::
-
-<br>
+**Topic:** \
 [LLMs](https://en.wikipedia.org/wiki/Large_language_model) have become extremely useful as a programming aid.
 
 They can:
 
-- explain code,
+- auto-complete code,
 - explain programming concepts,
-- write well-documented code,
-- debug code.
+- explain code,
+- write code,
+- debug code,
+- write software tests,
+- write entire programs, websites, and applications ([vibe coding](https://en.wikipedia.org/wiki/Vibe_coding)).
 
-Let's have a first try at it: we will use an LLM to download a text from the internet and do some basic text analyses.
+Let's have a first try at it: we will use an LLM to download a text from the internet and do some basic text analyses. In the process, we will learn new Python concepts.
+
+:::
 
 <br>
 

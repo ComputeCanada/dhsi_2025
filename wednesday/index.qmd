@@ -19,10 +19,10 @@ Tannia Chevez (ACENET)
 **Live notes:** \
 [Etherpad](https://etherpad.wikimedia.org/p/dhsi25)
 
-:::
-
-<br>
+**Topic:** \
 We will gather internet data using APIs.
+
+:::
 
 ## Webscraping with AI
 
@@ -40,10 +40,10 @@ Marie-Hélène Burle (Simon Fraser University)
 **Material:** \
 [Website](https://mint.westdri.ca/python/llm_webscraping)
 
-:::
+**Topic:** \
+Yesterday we saw how useful LLMs can be to write simple snippets of code and learn a new programming language. Today, we will try to do something a lot more complex with the help of an LLM: write a program to scrape a website.
 
-<br>
-Yesterday we saw how useful LLMs can be to write code. Today, we will use an LLM to write a program to scrape a website.
+:::
 
 <br>
 
