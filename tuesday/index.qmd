@@ -19,6 +19,14 @@ Tannia Chevez (ACENET)
 **Live notes:** \
 [Etherpad](https://etherpad.wikimedia.org/p/dhsi25)
 
+**Material:** \
+Download the Jupyter notebook for this morning: {{< downloadthis day2_morning.ipynb label="Download" >}}
+
+You will open this notebook on your computer and work in it.
+
+You can see (but not edit) the content of the notebook [here](day2_morning.html){target="_blank"}. \
+After the end of today's class, we will publish a completed notebook at the link above so that you don't have to worry about missing something during the class: just focus on learning.
+
 :::
 
 ## Using AI to write Python code
