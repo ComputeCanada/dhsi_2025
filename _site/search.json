@@ -4,14 +4,14 @@
     "href": "wednesday/index.html",
     "title": "Python for the humanities",
     "section": "",
-    "text": "Time:\n9am–noon\nInstructor:\nTannia Chevez (ACENET)\nLive notes:\nEtherpad\nTopic:\nWe will gather internet data using APIs."
+    "text": "Time:\n9am–noon\nInstructor:\nTannia Chevez (ACENET)\nLive notes:\nEtherpad\nMaterial:\nSlides\nTopic:\nWe will gather internet data using APIs."
   },
   {
     "objectID": "wednesday/index.html#api-querying",
     "href": "wednesday/index.html#api-querying",
     "title": "Python for the humanities",
     "section": "",
-    "text": "Time:\n9am–noon\nInstructor:\nTannia Chevez (ACENET)\nLive notes:\nEtherpad\nTopic:\nWe will gather internet data using APIs."
+    "text": "Time:\n9am–noon\nInstructor:\nTannia Chevez (ACENET)\nLive notes:\nEtherpad\nMaterial:\nSlides\nTopic:\nWe will gather internet data using APIs."
   },
   {
     "objectID": "wednesday/index.html#webscraping-with-ai",
@@ -301,6 +301,27 @@
     "text": "Python is a popular high-level programming language with applications in different fields of science and technology. Python is a powerful tool in data science as it can automate tasks and facilitate data analysis. One of the main reasons Python is a popular programming language is its extensive external libraries and packages which can introduce new functionalities, tailored to different applications, to the base version of Python. Installing all the external packages individually can be time-consuming and as such, we recommend Anaconda, an all-in-one installer which comes with the most popular external packages for Python.\nWe will teach Python using JupyterLab, a programming environment that runs in a web browser (JupyterLab will be installed by Anaconda automatically). For this to work you will need a reasonably up-to-date browser. The current versions of the Chrome, Safari, and Firefox browsers are all supported."
   },
   {
+    "objectID": "install.html#python-setup-using-anaconda",
+    "href": "install.html#python-setup-using-anaconda",
+    "title": "Software installation instructions",
+    "section": "",
+    "text": "Python is a popular high-level programming language with applications in different fields of science and technology. Python is a powerful tool in data science as it can automate tasks and facilitate data analysis. One of the main reasons Python is a popular programming language is its extensive external libraries and packages which can introduce new functionalities, tailored to different applications, to the base version of Python. Installing all the external packages individually can be time-consuming and as such, we recommend Anaconda, an all-in-one installer which comes with the most popular external packages for Python.\nWe will teach Python using JupyterLab, a programming environment that runs in a web browser (JupyterLab will be installed by Anaconda automatically). For this to work you will need a reasonably up-to-date browser. The current versions of the Chrome, Safari, and Firefox browsers are all supported."
+  },
+  {
+    "objectID": "install.html#installation",
+    "href": "install.html#installation",
+    "title": "Software installation instructions",
+    "section": "Installation",
+    "text": "Installation\n\nWindows users\n\nOpen this link.\nClick on the “Download” button. If you are not sure which version to choose, you probably want the 64-bit Graphical Installer Anaconda3-...-Windows-x86_64.exe.\n\n\n\n\n\n\n\nInstall Python 3 by running the Anaconda Installer:\n\n\n\n\nStep 1. Click on the “Next” button\n\n\n\n\n\nStep 2. Click on the “I Agree” button\n\n\n\n\n\nStep 3. Click on the “Next” button\n\n\n\n\n\nStep 4. Click on the “Next” button\n\n\n\n\n\nStep 5. Check “add Anaconda3 to my PATH environment variable” box and then click on “Install”\n\n\n\n\nmacOS users\n\nOpen this link.\nClick on the “Download” button which will then download the Anaconda Installer with Python 3 for macOS (you can either use the Graphical or the Command Line Installer).\nInstall Python 3 by running the Anaconda Installer using all the defaults.\n\n\n\nLinux users\n\nOpen this link.\nClick on the “Download” button and download the Anaconda Installer with Python 3 for Linux.\nOpen a terminal emulator and navigate to the directory where the executable is downloaded (e.g. cd ~/Downloads).\nType bash Anaconda3- then press Tab to autocomplete the full file name. The name of the file you just downloaded should appear.\nPress “Enter”. You will follow the text-only prompts. To move through the text, press the space bar. Type “yes” and press “Enter” to approve the license. Press “Enter” to approve the default location for the files. Type “yes” and press “Enter” to prepend Anaconda to your PATH (this makes the Anaconda distribution the default Python).\nClose the terminal window."
+  },
+  {
+    "objectID": "install.html#testing-installation",
+    "href": "install.html#testing-installation",
+    "title": "Software installation instructions",
+    "section": "Testing installation",
+    "text": "Testing installation\nMake sure you can open JupyterLab in your browser: navigate to your terminal (“Anaconda Prompt” in Windows).\n\n\n\nIn Windows, look for “Anaconda Prompt”\n\n\nOnce you are in “Anaconda Prompt” (Windows), “Terminal” (macOS), or your usual terminal emulator (Linux), type jupyter lab and press “Enter”.\nIf you see a window similar to this screenshot in your browser, it means that you are good to go:"
+  },
+  {
     "objectID": "monday/index.html",
     "href": "monday/index.html",
     "title": "Programming fundamentals",
@@ -348,26 +369,5 @@
     "title": "Basics of Python",
     "section": "Using AI to write Python code",
     "text": "Using AI to write Python code\n\nTime:\n1pm–4pm\nInstructor:\nMarie-Hélène Burle (Simon Fraser University)\nLive notes:\nEtherpad\nMaterial:\nWebsite\nTopic:\nLLMs have become extremely useful as a programming aid.\nThey can:\n\nauto-complete code,\nexplain programming concepts,\nexplain code,\nwrite code,\ndebug code,\nwrite software tests,\nwrite entire programs, websites, and applications (vibe coding).\n\nLet’s have a first try at it: we will use an LLM to download a text from the internet and do some basic text analyses. In the process, we will learn new Python concepts."
-  },
-  {
-    "objectID": "install.html#python-setup-using-anaconda",
-    "href": "install.html#python-setup-using-anaconda",
-    "title": "Software installation instructions",
-    "section": "",
-    "text": "Python is a popular high-level programming language with applications in different fields of science and technology. Python is a powerful tool in data science as it can automate tasks and facilitate data analysis. One of the main reasons Python is a popular programming language is its extensive external libraries and packages which can introduce new functionalities, tailored to different applications, to the base version of Python. Installing all the external packages individually can be time-consuming and as such, we recommend Anaconda, an all-in-one installer which comes with the most popular external packages for Python.\nWe will teach Python using JupyterLab, a programming environment that runs in a web browser (JupyterLab will be installed by Anaconda automatically). For this to work you will need a reasonably up-to-date browser. The current versions of the Chrome, Safari, and Firefox browsers are all supported."
-  },
-  {
-    "objectID": "install.html#installation",
-    "href": "install.html#installation",
-    "title": "Software installation instructions",
-    "section": "Installation",
-    "text": "Installation\n\nWindows users\n\nOpen this link.\nClick on the “Download” button. If you are not sure which version to choose, you probably want the 64-bit Graphical Installer Anaconda3-...-Windows-x86_64.exe.\n\n\n\n\n\n\n\nInstall Python 3 by running the Anaconda Installer:\n\n\n\n\nStep 1. Click on the “Next” button\n\n\n\n\n\nStep 2. Click on the “I Agree” button\n\n\n\n\n\nStep 3. Click on the “Next” button\n\n\n\n\n\nStep 4. Click on the “Next” button\n\n\n\n\n\nStep 5. Check “add Anaconda3 to my PATH environment variable” box and then click on “Install”\n\n\n\n\nmacOS users\n\nOpen this link.\nClick on the “Download” button which will then download the Anaconda Installer with Python 3 for macOS (you can either use the Graphical or the Command Line Installer).\nInstall Python 3 by running the Anaconda Installer using all the defaults.\n\n\n\nLinux users\n\nOpen this link.\nClick on the “Download” button and download the Anaconda Installer with Python 3 for Linux.\nOpen a terminal emulator and navigate to the directory where the executable is downloaded (e.g. cd ~/Downloads).\nType bash Anaconda3- then press Tab to autocomplete the full file name. The name of the file you just downloaded should appear.\nPress “Enter”. You will follow the text-only prompts. To move through the text, press the space bar. Type “yes” and press “Enter” to approve the license. Press “Enter” to approve the default location for the files. Type “yes” and press “Enter” to prepend Anaconda to your PATH (this makes the Anaconda distribution the default Python).\nClose the terminal window."
-  },
-  {
-    "objectID": "install.html#testing-installation",
-    "href": "install.html#testing-installation",
-    "title": "Software installation instructions",
-    "section": "Testing installation",
-    "text": "Testing installation\nMake sure you can open JupyterLab in your browser: navigate to your terminal (“Anaconda Prompt” in Windows).\n\n\n\nIn Windows, look for “Anaconda Prompt”\n\n\nOnce you are in “Anaconda Prompt” (Windows), “Terminal” (macOS), or your usual terminal emulator (Linux), type jupyter lab and press “Enter”.\nIf you see a window similar to this screenshot in your browser, it means that you are good to go:"
   }
 ]
