@@ -31,7 +31,7 @@ We will teach Python using JupyterLab, a programming environment that runs in a 
 
 ![Step 5. Check "add Anaconda3 to my PATH environment variable" box and then click on "Install"](img/install5.png)
 
-### MacOS users
+### macOS users
 
 1. Open [this link](https://www.anaconda.com/products/individual#download-section).
 
@@ -47,13 +47,7 @@ We will teach Python using JupyterLab, a programming environment that runs in a 
 
 3. Open a terminal emulator and navigate to the directory where the executable is downloaded (e.g. `cd ~/Downloads`).
 
-4. Type:
-
-```{.bash}
-bash Anaconda3-
-```
-
-and then press Tab to autocomplete the full file name. The name of the file you just downloaded should appear.
+4. Type `bash Anaconda3-` then press Tab to autocomplete the full file name. The name of the file you just downloaded should appear.
 
 5. Press "Enter". You will follow the text-only prompts. To move through the text, press the space bar. Type "yes" and press "Enter" to approve the license. Press "Enter" to approve the default location for the files. Type "yes" and press "Enter" to prepend Anaconda to your PATH (this makes the Anaconda distribution the default Python).
 
@@ -65,12 +59,8 @@ Make sure you can open JupyterLab in your browser: navigate to your terminal ("A
 
 ![In Windows, look for "Anaconda Prompt"](img/install6.png)
 
-Once you are in "Anaconda Prompt" (Windows), "Terminal" (MacOS), type:
+Once you are in "Anaconda Prompt" (Windows), "Terminal" (macOS), or your usual terminal emulator (Linux), type `jupyter lab` and press "Enter".
 
-```{.bash}
-jupyter lab
-```
-
-and press "Enter". If you see a window similar to this screenshot in your browser, it means you are good to go:
+If you see a window similar to this screenshot in your browser, it means that you are good to go:
 
 ![](img/install7.png){fig-align="center"}
