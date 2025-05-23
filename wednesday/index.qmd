@@ -19,6 +19,9 @@ Tannia Chevez (ACENET)
 **Live notes:** \
 [Etherpad](https://etherpad.wikimedia.org/p/dhsi25)
 
+**Material:** \
+[Slides](https://docs.google.com/presentation/d/e/2PACX-1vTn0lqZrMbfUAUVaMSdAkLeHy3eJoNsczElUZvl87ou6OO5amDkf9aAetYdqqKGIg/pub?start=false&loop=false&delayms=3000#slide=id.p1)
+
 **Topic:** \
 We will gather internet data using APIs.
 
