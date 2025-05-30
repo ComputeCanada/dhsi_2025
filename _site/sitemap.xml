@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://dhsi-2025.netlify.app/wednesday/index.html</loc>
-    <lastmod>2025-05-23T18:13:16.731Z</lastmod>
+    <lastmod>2025-05-30T16:15:10.499Z</lastmod>
   </url>
   <url>
     <loc>https://dhsi-2025.netlify.app/tuesday/day2_morning.html</loc>
@@ -38,10 +38,14 @@
   </url>
   <url>
     <loc>https://dhsi-2025.netlify.app/thursday/index.html</loc>
-    <lastmod>2025-05-22T17:57:56.566Z</lastmod>
+    <lastmod>2025-05-30T16:27:36.279Z</lastmod>
   </url>
   <url>
     <loc>https://dhsi-2025.netlify.app/tuesday/index.html</loc>
     <lastmod>2025-05-22T18:40:49.315Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dhsi-2025.netlify.app/wednesday/day3_morning.html</loc>
+    <lastmod>2025-05-30T16:13:51.317Z</lastmod>
   </url>
 </urlset>
