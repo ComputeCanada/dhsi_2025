@@ -11,7 +11,7 @@ toc: false
 :::{.topdef}
 
 **Time:** \
-10:30am–noon
+11:00am–noon
 
 **Instructor:** \
 Marie-Hélène Burle (Simon Fraser University)
@@ -32,7 +32,7 @@ An introduction to the core concepts of programming languages.
 :::{.topdef}
 
 **Time:** \
-1pm–2:30pm
+1:30pm–4:00pm
 
 **Instructor:** \
 Tannia Chevez (ACENET)

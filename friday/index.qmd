@@ -9,7 +9,7 @@ toc: false
 :::{.topdef}
 
 **Time:** \
-9am–10:15am
+9am–noon
 
 **Live notes:** \
 [Etherpad](https://etherpad.wikimedia.org/p/dhsi25)

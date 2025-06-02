@@ -38,7 +38,7 @@ We will gather internet data using APIs.
 :::{.topdef}
 
 **Time:** \
-1pm–4pm
+1:30pm–4:00pm
 
 **Instructor:** \
 Marie-Hélène Burle (Simon Fraser University)
