@@ -18,7 +18,7 @@
     "href": "wednesday/index.html#webscraping-with-ai",
     "title": "Python for the humanities",
     "section": "Webscraping with AI",
-    "text": "Webscraping with AI\n\nTime:\n1pm–4pm\nInstructor:\nMarie-Hélène Burle (Simon Fraser University)\nLive notes:\nEtherpad\nMaterial:\nWebsite\nTopic:\nYesterday we saw how useful LLMs can be to write simple snippets of code and learn a new programming language. Today, we will try to do something a lot more complex with the help of an LLM: write a program to scrape a website."
+    "text": "Webscraping with AI\n\nTime:\n1:30pm–4:00pm\nInstructor:\nMarie-Hélène Burle (Simon Fraser University)\nLive notes:\nEtherpad\nMaterial:\nWebsite\nTopic:\nYesterday we saw how useful LLMs can be to write simple snippets of code and learn a new programming language. Today, we will try to do something a lot more complex with the help of an LLM: write a program to scrape a website."
   },
   {
     "objectID": "tuesday/day2_morning.html",
@@ -291,7 +291,7 @@
     "href": "friday/index.html",
     "title": "Presentations",
     "section": "",
-    "text": "Time:\n9am–10:15am\nLive notes:\nEtherpad"
+    "text": "Time:\n9am–noon\nLive notes:\nEtherpad"
   },
   {
     "objectID": "install.html",
@@ -326,28 +326,28 @@
     "href": "monday/index.html",
     "title": "Programming fundamentals",
     "section": "",
-    "text": "Time:\n10:30am–noon\nInstructor:\nMarie-Hélène Burle (Simon Fraser University)\nLive notes:\nFeel free to use the etherpad for this course to share notes or communicate among each other. It is entirely for you, so you can use it however you want.\nMaterial:\nSlides (this presentation may take a little time to load).\nTopic:\nAn introduction to the core concepts of programming languages."
+    "text": "Time:\n11:00am–noon\nInstructor:\nMarie-Hélène Burle (Simon Fraser University)\nLive notes:\nFeel free to use the etherpad for this course to share notes or communicate among each other. It is entirely for you, so you can use it however you want.\nMaterial:\nSlides (this presentation may take a little time to load).\nTopic:\nAn introduction to the core concepts of programming languages."
   },
   {
     "objectID": "monday/index.html#programming-languages",
     "href": "monday/index.html#programming-languages",
     "title": "Programming fundamentals",
     "section": "",
-    "text": "Time:\n10:30am–noon\nInstructor:\nMarie-Hélène Burle (Simon Fraser University)\nLive notes:\nFeel free to use the etherpad for this course to share notes or communicate among each other. It is entirely for you, so you can use it however you want.\nMaterial:\nSlides (this presentation may take a little time to load).\nTopic:\nAn introduction to the core concepts of programming languages."
+    "text": "Time:\n11:00am–noon\nInstructor:\nMarie-Hélène Burle (Simon Fraser University)\nLive notes:\nFeel free to use the etherpad for this course to share notes or communicate among each other. It is entirely for you, so you can use it however you want.\nMaterial:\nSlides (this presentation may take a little time to load).\nTopic:\nAn introduction to the core concepts of programming languages."
   },
   {
     "objectID": "monday/index.html#jupyterlab-python",
     "href": "monday/index.html#jupyterlab-python",
     "title": "Programming fundamentals",
     "section": "JupyterLab & Python",
-    "text": "JupyterLab & Python\n\nTime:\n1pm–2:30pm\nInstructor:\nTannia Chevez (ACENET)\nLive notes:\nEtherpad\nMaterial:\nDownload the Jupyter notebook for this afternoon:  Download \nYou will open this notebook on your computer and work in it.\nYou can see (but not edit) the content of the notebook here.\nAfter the end of today’s class, we will publish a completed notebook at the link above so that you don’t have to worry about missing something during the class: just focus on learning."
+    "text": "JupyterLab & Python\n\nTime:\n1:30pm–4:00pm\nInstructor:\nTannia Chevez (ACENET)\nLive notes:\nEtherpad\nMaterial:\nDownload the Jupyter notebook for this afternoon:  Download \nYou will open this notebook on your computer and work in it.\nYou can see (but not edit) the content of the notebook here.\nAfter the end of today’s class, we will publish a completed notebook at the link above so that you don’t have to worry about missing something during the class: just focus on learning."
   },
   {
     "objectID": "thursday/index.html",
     "href": "thursday/index.html",
     "title": "Your turn!",
     "section": "",
-    "text": "Time:\n9am–noon, 1pm–4pm\nLive notes:\nEtherpad\nTopic:\nToday, you will be working in teams on a project of your own. Your goal is to extract useful data from a website, either via API querying (if the option is available) or via web scraping (if your site has no API).\nTry to pair up with one or more people having a similar interest.\nOf course, we will be with you all day to help!\nIt would be fantastic if you could chose a website that contains data useful for your research or that is of interest to you. If you don’t have any idea however, here is a list of sites that have well-built APIs:\n\nHathi Trust Hathifiles\nHathi Trust bibliographic API\nNew York Times\nInternet Archive\nSpotify\nGetty Museum\nLibrary of Congress\nWorld Bank\nNASA\n\nYou can find other sites with good APIs here and here."
+    "text": "Time:\n9am–noon, 1:30pm–4pm\nLive notes:\nEtherpad\nTopic:\nToday, you will be working in teams on a project of your own. Your goal is to extract useful data from a website, either via API querying (if the option is available) or via web scraping (if your site has no API).\nTry to pair up with one or more people having a similar interest.\nOf course, we will be with you all day to help!\nIt would be fantastic if you could chose a website that contains data useful for your research or that is of interest to you. If you don’t have any idea however, here is a list of sites that have well-built APIs:\n\nHathi Trust Hathifiles\nHathi Trust bibliographic API\nNew York Times\nInternet Archive\nSpotify\nGetty Museum\nLibrary of Congress\nWorld Bank\nNASA\n\nYou can find other sites with good APIs here and here."
   },
   {
     "objectID": "tuesday/index.html",
@@ -368,7 +368,7 @@
     "href": "tuesday/index.html#using-ai-to-write-python-code",
     "title": "Basics of Python",
     "section": "Using AI to write Python code",
-    "text": "Using AI to write Python code\n\nTime:\n1pm–4pm\nInstructor:\nMarie-Hélène Burle (Simon Fraser University)\nLive notes:\nEtherpad\nMaterial:\nWebsite\nTopic:\nLLMs have become extremely useful as a programming aid.\nThey can:\n\nauto-complete code,\nexplain programming concepts,\nexplain code,\nwrite code,\ndebug code,\nwrite software tests,\nwrite entire programs, websites, and applications (vibe coding).\n\nLet’s have a first try at it: we will use an LLM to download a text from the internet and do some basic text analyses. In the process, we will learn new Python concepts."
+    "text": "Using AI to write Python code\n\nTime:\n1:30pm–4:00pm\nInstructor:\nMarie-Hélène Burle (Simon Fraser University)\nLive notes:\nEtherpad\nMaterial:\nWebsite\nTopic:\nLLMs have become extremely useful as a programming aid.\nThey can:\n\nauto-complete code,\nexplain programming concepts,\nexplain code,\nwrite code,\ndebug code,\nwrite software tests,\nwrite entire programs, websites, and applications (vibe coding).\n\nLet’s have a first try at it: we will use an LLM to download a text from the internet and do some basic text analyses. In the process, we will learn new Python concepts."
   },
   {
     "objectID": "wednesday/day3_morning.html",
