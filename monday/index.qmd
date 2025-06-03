@@ -49,7 +49,7 @@ You can see (but not edit) the content of the notebook [here](day1_afternoon.htm
 After the end of today's class, we will publish a completed notebook at the link above so that you don't have to worry about missing something during the class: just focus on learning.
 
 **Post course material:** \
-Here is the completed notebook: {{< downloadthis day1_afternoon_completed.ipynb dname="day1_afternoon" label="Download" >}}
+Here is the completed notebook: {{< downloadthis day1_afternoon_completed.ipynb dname="day1_afternoon_completed" label="Download" >}}
 
 And it can be visualized [here](day1_afternoon_completed.html){target="_blank"}.
 
