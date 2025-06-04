@@ -65,6 +65,11 @@ They can:
 
 Let's have a first try at it: we will use an LLM to download a text from the internet and do some basic text analyses. In the process, we will learn new Python concepts.
 
+**Post course material:** \
+Here is Marie's notebook from the live coding during class: {{< downloadthis day2_afternoon.ipynb dname="day2_afternoon" label="Download" >}}
+
+It can also be visualized [here](day2_afternoon.html){target="_blank"}.
+
 :::
 
 <br>
