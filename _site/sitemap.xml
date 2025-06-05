@@ -2,62 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://dhsi-2025.netlify.app/wednesday/index.html</loc>
-    <lastmod>2025-06-02T17:54:33.045Z</lastmod>
+    <lastmod>2025-06-05T13:49:32.609Z</lastmod>
   </url>
   <url>
-    <loc>https://dhsi-2025.netlify.app/tuesday/index.html</loc>
-    <lastmod>2025-06-04T14:45:58.068Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dhsi-2025.netlify.app/tuesday/day2_morning.html</loc>
-    <lastmod>2025-05-22T18:47:56.650Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dhsi-2025.netlify.app/thursday/index.html</loc>
-    <lastmod>2025-06-02T17:54:48.776Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dhsi-2025.netlify.app/monday/index.html</loc>
-    <lastmod>2025-06-03T13:42:44.767Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dhsi-2025.netlify.app/monday/day1_afternoon.html</loc>
-    <lastmod>2025-05-22T18:10:07.355Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dhsi-2025.netlify.app/index.html</loc>
-    <lastmod>2025-05-20T16:57:26.482Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dhsi-2025.netlify.app/about.html</loc>
-    <lastmod>2025-03-30T20:42:52.959Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dhsi-2025.netlify.app/friday/index.html</loc>
-    <lastmod>2025-06-02T17:56:04.707Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dhsi-2025.netlify.app/install.html</loc>
-    <lastmod>2025-05-23T18:16:23.877Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dhsi-2025.netlify.app/monday/day1_afternoon_completed.html</loc>
-    <lastmod>2025-06-03T13:29:59.030Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dhsi-2025.netlify.app/monday/wb_hss_prog_slides.html</loc>
-    <lastmod>2025-05-16T00:15:13.565Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dhsi-2025.netlify.app/tuesday/day2_afternoon.html</loc>
-    <lastmod>2025-06-04T14:39:29.911Z</lastmod>
+    <loc>https://dhsi-2025.netlify.app/wednesday/day3_morning.html</loc>
+    <lastmod>2025-05-30T16:13:51.317Z</lastmod>
   </url>
   <url>
     <loc>https://dhsi-2025.netlify.app/tuesday/day2_morning_completed.html</loc>
     <lastmod>2025-06-04T14:33:45.334Z</lastmod>
   </url>
   <url>
-    <loc>https://dhsi-2025.netlify.app/wednesday/day3_morning.html</loc>
-    <lastmod>2025-05-30T16:13:51.317Z</lastmod>
+    <loc>https://dhsi-2025.netlify.app/tuesday/day2_afternoon.html</loc>
+    <lastmod>2025-06-04T14:39:29.911Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dhsi-2025.netlify.app/monday/wb_hss_prog_slides.html</loc>
+    <lastmod>2025-05-16T00:15:13.565Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dhsi-2025.netlify.app/monday/day1_afternoon_completed.html</loc>
+    <lastmod>2025-06-03T13:29:59.030Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dhsi-2025.netlify.app/install.html</loc>
+    <lastmod>2025-05-23T18:16:23.877Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dhsi-2025.netlify.app/friday/index.html</loc>
+    <lastmod>2025-06-02T17:56:04.707Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dhsi-2025.netlify.app/about.html</loc>
+    <lastmod>2025-03-30T20:42:52.959Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dhsi-2025.netlify.app/index.html</loc>
+    <lastmod>2025-05-20T16:57:26.482Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dhsi-2025.netlify.app/monday/day1_afternoon.html</loc>
+    <lastmod>2025-05-22T18:10:07.355Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dhsi-2025.netlify.app/monday/index.html</loc>
+    <lastmod>2025-06-03T13:42:44.767Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dhsi-2025.netlify.app/thursday/index.html</loc>
+    <lastmod>2025-06-02T17:54:48.776Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dhsi-2025.netlify.app/tuesday/day2_morning.html</loc>
+    <lastmod>2025-05-22T18:47:56.650Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dhsi-2025.netlify.app/tuesday/index.html</loc>
+    <lastmod>2025-06-04T14:45:58.068Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dhsi-2025.netlify.app/wednesday/day3_morning_completed.html</loc>
+    <lastmod>2025-06-05T13:48:54.569Z</lastmod>
   </url>
 </urlset>
