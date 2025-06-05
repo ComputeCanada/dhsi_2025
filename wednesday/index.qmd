@@ -31,6 +31,11 @@ After the end of today's class, we will publish a completed notebook at the link
 **Topic:** \
 We will gather internet data using APIs.
 
+**Post course material:** \
+Here is the completed notebook: {{< downloadthis day3_morning_completed.ipynb dname="day3_morning_completed" label="Download" >}}
+
+And it can be visualized [here](day3_morning_completed.html){target="_blank"}.
+
 :::
 
 ## Webscraping with AI
