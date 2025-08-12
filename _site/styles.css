@@ -534,6 +534,20 @@ ul {
   }
 }
 
+/*. banner */
+
+.quarto-title-banner a {
+  color: #c08d12 !important;
+}
+
+.quarto-title-banner a:hover {
+    color: #997300 !important;
+}
+
+.quarto-title-banner li {
+  font-size: 0.9rem;
+}
+
 /*. general */
 
 a {
