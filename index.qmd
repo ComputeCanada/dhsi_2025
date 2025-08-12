@@ -1,7 +1,7 @@
 ---
 title: Coding Fundamentals for Humanists
 description: |
-  <br>Course for the [Digital Humanities Summer Institute](https://dhsi.org/) (DHSI) 2025
+  <br>Course for the [Digital Humanities Summer Institute (DHSI)](https://dhsi.org/) 2025
 toc: false
 title-block-banner: true
 anchor-sections: false
